@@ -1,0 +1,97 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.container{
+  width: 100%;
+  background-color: white;
+  padding: 10px;
+}
+
+.span_1{
+  color: black;
+  margin-right: 300px;
+  font-weight: bold;
+  margin-left: 8px;
+  font-size: 20px;
+}
+
+.arc{
+  color: rgb(136, 132, 127);
+}
+
+.span_2{
+  color: rgb(136, 132, 127);
+  margin-left: 50px;
+  font-weight: bold;
+}
+
+.span_1:hover{
+  background-color: bisque;
+}
+
+.span_2:hover{
+  background-color: bisque;
+}
+
+.cmpyimg{
+  width: 100%;
+  margin: 5px;
+  position: relative;
+ 
+  
+}
+
+.cmpy-name{
+  color: aliceblue;
+  font-weight: bold;
+  font-family: "roboto";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 1;
+  background-color: transparent;
+
+}
+
+.span{
+  color:white;
+  background-color: black;
+  font-size: 30px;
+  width: 80px;
+  
+}
+
+.card{
+  margin: 20px;
+
+}
+
+.main-heaading{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.img_1{
+  position: relative;
+  display: inline-block;
+}
+
+.img1{
+  width: 300px;
+  
+  margin: 5px;
+  
+}
+
+.about-projects{
+  color: aliceblue;
+  background-color: black;
+  /* width: 200px; */
+  /* padding: 10px; */
+  position: absolute;
+  top: 5px;
+  left: 5px;
+}
